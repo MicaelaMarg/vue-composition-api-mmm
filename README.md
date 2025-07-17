@@ -26,7 +26,8 @@ Este es un proyecto de gestión de libros desarrollado con Vue 3 usando la Compo
 ## 📸 Capturas de pantalla
 
 ### 🏠 Página principal
-![Inicio](./imagenes/img.png)
+
+![Inicio](.scr/imagenes/img.png)
 
 ### ➕ Formulario para agregar libros
 ![Nuevo libro](./imagenes/img2.png)
