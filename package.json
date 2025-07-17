@@ -1,0 +1,24 @@
+{
+  "name": "vue-composition-api-mmm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MicaelaMarg/vue-composition-api-mmm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MicaelaMarg/vue-composition-api-mmm/issues"
+  },
+  "homepage": "https://github.com/MicaelaMarg/vue-composition-api-mmm#readme",
+  "description": "",
+  "dependencies": {
+    "vite": "^7.0.5",
+    "vue": "^3.5.17"
+  }
+}
