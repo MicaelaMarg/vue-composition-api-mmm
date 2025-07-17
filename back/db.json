@@ -1,0 +1,40 @@
+{
+  "libros": [
+    {
+      "id": "1",
+      "titulo": "Primer libro",
+      "autor": "MicaelaMatt_dev",
+      "ISBN": "#0001",
+      "genero": "Tecnologia",
+      "precio": "1 USD ",
+      "disponibilidad": "true"
+    },
+    {
+      "id": "2",
+      "titulo": "Segundo libro",
+      "autor": "MicaelaMatt_dev",
+      "ISBN": "#0002",
+      "genero": "Tecnologia",
+      "precio": "2 USD ",
+      "disponibilidad": "true"
+    },
+    {
+      "id": "857b",
+      "titulo": "Tercer libro",
+      "autor": "MicaelaMatt_dev",
+      "ISBN": "#0003",
+      "genero": "Tecnologia",
+      "precio": "3 USD ",
+      "disponibilidad": "true"
+    },
+    {
+      "id": "6adf",
+      "titulo": "Cuarto libro",
+      "autor": "MicaelaMatt_dev",
+      "ISBN": "#0004",
+      "genero": "Tecnologia",
+      "precio": "4 USD ",
+      "disponibilidad": "true"
+    }
+  ]
+}
